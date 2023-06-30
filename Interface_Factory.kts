@@ -1,5 +1,3 @@
-//Atividade 1
-
 fun main(){
     val carro = Carro()
     carro.longVelocity = 10
