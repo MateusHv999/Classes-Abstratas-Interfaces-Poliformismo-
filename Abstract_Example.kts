@@ -1,4 +1,3 @@
-//Atividade 3
 fun main(){
     val fabrica = FabricaDeVeiculos()
     val listaDeVeiculos : MutableList<Veiculo> = mutableListOf()
