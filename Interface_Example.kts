@@ -1,4 +1,3 @@
-//Atividade 2
 fun main(){
     val carro = Carro()
     val moto = Moto()
